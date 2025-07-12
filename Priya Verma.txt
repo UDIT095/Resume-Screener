@@ -1,0 +1,20 @@
+Priya Verma  
+Email: priya.verma@techmail.com  
+Phone: +91-9123456789  
+Location: Hyderabad, India
+
+Objective:  
+Detail-oriented Python Developer with 3+ years of experience in developing backend systems, data pipelines, and RESTful APIs using Python frameworks like Flask and Django. Strong understanding of OOP, clean coding principles, and deployment.
+
+Technical Skills:
+- Programming: Python, JavaScript, Bash
+- Web: Flask, Django, FastAPI
+- Data: Pandas, NumPy, SQLAlchemy
+- Tools: Git, Docker, Postman, Jenkins, Celery
+- Database: PostgreSQL, SQLite, MongoDB
+- Cloud: AWS EC2, Lambda, S3
+
+Work Experience:
+Python Developer | Zeta Technologies | Mar 2022 – Present
+- Developed scalable APIs using Flask and integrated PostgreSQL
+- Automated data workflows using Celery and RabbitMQ

@@ -1,0 +1,30 @@
+Amit Sharma  
+Email: amit.sharma@gmail.com  
+Phone: +91-9876543210  
+
+Objective:  
+Experienced Java Developer with 5+ years of expertise in building scalable web applications and microservices using Java, Spring Boot, and Hibernate.
+
+Skills:
+- Java, J2EE, Spring Boot, Hibernate, REST APIs
+- MySQL, PostgreSQL
+- Git, Maven, Jenkins, Docker
+- Agile & Scrum methodology
+
+Experience:
+Senior Java Developer | Infosys Ltd | 2020–Present
+- Designed and implemented RESTful APIs using Spring Boot
+- Integrated MySQL databases and optimized performance
+- Deployed apps using Docker containers in AWS
+
+Software Engineer | Wipro | 2018–2020
+- Developed internal tools for automation using Java and Swing
+- Created custom libraries for data validation and parsing
+
+Education:
+B.Tech in Computer Science  
+Delhi Technological University  
+2013–2017
+
+Certifications:
+Oracle Certified Java Pr
